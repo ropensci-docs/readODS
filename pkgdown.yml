@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.5
+pkgdown_sha: ~
+articles:
+  overview: overview.html
+last_built: 2022-07-24T05:28Z
+urls:
+  reference: https://docs.ropensci.org/readODS/reference
+  article: https://docs.ropensci.org/readODS/articles
+

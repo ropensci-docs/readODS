@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5b0eee12790d01adb52c8bfca9daf08d205f6844",
+    "author": "chainsawriot <chainsawtiney@gmail.com>",
+    "time": "2022-06-24 20:57:36",
+    "files": 2,
+    "merge": false,
+    "message": "Add code meta\n"
+  },
+  "repo": "https://github.com/ropensci/readODS",
+  "pkg": "readODS"
+}
