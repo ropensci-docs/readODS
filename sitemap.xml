@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/readODS/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/articles/overview.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/news/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/reference/list_ods_sheets.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/reference/readODS-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/reference/read_ods.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/readODS/reference/write_ods.html</loc>
+  </url>
+</urlset>

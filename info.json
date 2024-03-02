@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "803775d7db7866877ab31750ea15afc523646339",
+    "author": "olivroy <52606734+olivroy@users.noreply.github.com>",
+    "time": "2024-02-01 18:12:48",
+    "files": 1,
+    "merge": false,
+    "message": "Add website to DESCRIPTION (#184)\n\n"
+  },
+  "repo": "https://github.com/ropensci/readODS",
+  "pkg": "readODS"
+}
