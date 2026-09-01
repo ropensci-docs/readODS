@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9517237e36a09224149d8178f08bcc29f4dc5b5b",
+    "author": "chainsawriot <chainsawtiney@gmail.com>",
+    "time": "2026-09-01T19:37:36Z",
+    "files": 1,
+    "merge": false,
+    "message": "Fix NOTES on CRAN\n"
+  },
+  "repo": "https://github.com/ropensci/readODS",
+  "pkg": "readODS",
+  "time": "2026-09-01T20:06:58Z"
+}
